@@ -59,12 +59,10 @@ npm run build
 
 ## 🌱 Third Party Libraries
 
-- [vercel/next.js](https://github.com/vercel/next.js)
-- [facebook/react](https://github.com/facebook/react)
-- [facebook/jest](https://github.com/facebook/jest)
-- [expressjs/express](https://github.com/expressjs/express)
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+- [PANDAS](https://pandas.pydata.org/)
+- [TENSORFLOW](https://github.com/facebook/react)
+- [SCIKIT-LEARN](https://scikit-learn.org)
+- [NUMPY](https://numpy.org/)
 
 ## 📚️ Roadmap
 
@@ -81,7 +79,7 @@ npm run build
 
 ## ‎‍💻 Author
 
-- [@Tilakraj0308](https://github.com/Tilakraj0308)
+- [@Snehil-1618](https://github.com/Snehil-1618)
 
 ## ⭐️ Contribute
 
@@ -94,4 +92,4 @@ If you want to say thank you and/or support the active development of Fraud_Dete
 
 ## 🧾 License
 
-MIT License Copyright (c) 2022 [John Doe](https://github.com/Tilakraj0308).
+MIT License Copyright (c) 2022 [John Doe](https://github.com/Snehil-1618).
