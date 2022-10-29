@@ -66,6 +66,7 @@ jupyter notebook
 ## ‎‍💻 Author
 
 - [@Snehil-1618](https://github.com/Snehil-1618)
+- [@Tilakraj0308](https://github.com/Tilakraj0308)
 
 ## ⭐️ Contribute
 
