@@ -17,44 +17,40 @@ Another awesome project to make the world a better place.
       alt="Standard" />
   </a>
   
-  <img src="https://img.shields.io/github/languages/code-size/Tilakraj0308/Fraud_Detection?style=flat-square" alt="Code size" />
+  <img src="https://img.shields.io/github/languages/code-size/Snehil-1618/Fraud_Detection?style=flat-square" alt="Code size" />
 
-  <img src="https://img.shields.io/github/license/Tilakraj0308/Fraud_Detection?style=flat-square" alt="License" />
+  <img src="https://img.shields.io/github/license/Snehil-1618/Fraud_Detection?style=flat-square" alt="License" />
 
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Tilakraj0308/Fraud_Detection?style=flat-square">
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Snehil-1618/Fraud_Detection?style=flat-square">
 
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Tilakraj0308/Fraud_Detection?style=social">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Snehil-1618/Fraud_Detection?style=social">
 </div>
 
 ## ⚡️ Introduction
 
-Introduce your project, what problem you are trying to solve, what makes it unique, sell it to me.
 
-Add screenshot or gif.
 
 ## 🎯 Features
 
-- Robust routing
-- Serve static files
-- Extreme performance
-- Low memory footprint
-- API endpoints
-- And much more, explore Fraud_Detection
-
 ## ⚙️ Installation
 
-Make sure you have [Node.js](https://nodejs.org/en/download/) installed.
-Run this followed commands:
+Make sure you have Jupyter Notebook on your system.
 
-```bash
-# Install dependencies (only the first time)
-npm install
 
-# Run the local server at localhost:8080
-npm run dev
+```bash 
 
-# Build for production in the dist/ directory
-npm run build
+#Install JupyterLab with pip:
+
+pip install jupyterlab
+
+#Install the classic Jupyter Notebook with:
+
+pip install notebook
+
+#To run the notebook:
+
+jupyter notebook
+
 ```
 
 ## 🌱 Third Party Libraries
@@ -66,16 +62,6 @@ npm run build
 
 ## 📚️ Roadmap
 
-- [ ] Define the endpoints, structure and parameters for the API.
-- [ ] Create the new branding and visual toolkit within Figma.
-- [ ] Update On-Demand Cloud dashboard and add usage-based pricing.
-
-
-## ❤️ Acknowledgements
-
-- [fiber](https://github.com/gofiber/fiber)
-- [leerob](https://github.com/leerob/leerob.io)
-- [flaviocopes](https://github.com/flaviocopes)
 
 ## ‎‍💻 Author
 
@@ -92,4 +78,4 @@ If you want to say thank you and/or support the active development of Fraud_Dete
 
 ## 🧾 License
 
-MIT License Copyright (c) 2022 [John Doe](https://github.com/Snehil-1618).
+MIT License Copyright (c) 2022 [Snehil](https://github.com/Snehil-1618).
